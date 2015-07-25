@@ -1,3 +1,7 @@
+body {
+    margin: 0px;
+}
+
 #django-rest-swagger {
     background: #547f00; 
     color: #eee; 
